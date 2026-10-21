@@ -1,0 +1,11 @@
+[project]
+name = "sdd-agent-starter"
+version = "0.1.0"
+description = "Deterministic Spec-Driven Development (SDD) agent workflow using LangGraph"
+requires-python = ">=3.11"
+dependencies = [
+    "langgraph>=0.2.0",
+    "pydantic>=2.7.0",
+    "pyyaml>=6.0.1",
+    "pytest>=8.0.0"
+]
