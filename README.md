@@ -1,5 +1,6 @@
 # Spec-Driven Development (SDD) Agent Starter
 
+[![SDD Contract & Agent CI](https://github.com/defrox/sdd-agent-starter/actions/workflows/ci.yml/badge.svg)](https://github.com/defrox/sdd-agent-starter/actions/workflows/ci.yml)
 [![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/downloads/)
 [![LangGraph](https://img.shields.io/badge/LangGraph-Powered-1C3C3C?logo=langgraph&logoColor=white)](https://langchain-ai.github.io/langgraph/)
 
